@@ -1,0 +1,6 @@
+
+Customer's Name : Umer Bahadur
+Customer's CNIC number :4230112345678
+Customer's Phone number :  3001234567
+Customer's Address : abc house abc city
+Customer's Total Bill : 7530000
